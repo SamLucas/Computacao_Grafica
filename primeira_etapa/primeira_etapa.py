@@ -1,6 +1,6 @@
 import cv2 
   
-img = cv2.imread('rgb2.png')  
+img = cv2.imread('rgb.png')  
 height, width, depth = img.shape
 
 for l in img:
